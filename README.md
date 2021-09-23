@@ -2,8 +2,8 @@
 
 We analyse real estate market in San Francisco from 2010 to 2016 using python visualing techniques.
 
-We especaiily employ interactive charts so that readers can easily spot and focus on information they are searching.
-For this purpose we mainly use Plotly and hvplot
+We especially employ interactive charts so that readers can easily spot and focus on information they are searching.
+For this purpose we mainly use plotly and hvplot libraries.
 
 This analysis consists of the following two jupyter files.
  
