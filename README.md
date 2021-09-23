@@ -7,12 +7,12 @@ For this purpose we mainly use Plotly and hvplot
 
 This analysis consists of the following two jupyter files.
  
-**- rental_analysis.ipynb**
+**- rental_analysis.ipynb**<br />
 **- dashboard_analysis.ipynb**
 
 In the former we walk you though each analysis using following data on San Francisco real estate market.
 
-**- Sale price per square foot**
+**- Sale price per square foot**<br />
 **- Building unit number**
 **- Gross rent**
 
